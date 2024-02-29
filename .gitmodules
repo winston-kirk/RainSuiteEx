@@ -1,0 +1,6 @@
+[submodule "RainInventoryEx"]
+	path = RainInventoryEx
+	url = https://github.com/winston-kirk/RainInventoryEx.git
+[submodule "RainCraftEx"]
+	path = RainCraftEx
+	url = https://github.com/winston-kirk/RainCraftEx.git

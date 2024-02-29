@@ -1,0 +1,13 @@
+{
+	"id" : "raininventoryex",
+	"name" : "RainInventoryEx - Inventory System",
+	"version" : "0.0.1",
+	"target_game_version" : "v1.9.07b",
+	"hide_version" : false,
+	"authors" : "Winston Kirk",
+	"description" : "This mod adds a full functioning inventory system for all slugcats. It's part of the RainSuiteEx.",
+	"requirements" : [],
+	"requirements_names" : [],
+	"tags" : ["Game Mechanics", "Inventory", "RainSuiteEx"],
+	"checksum_override_version" : true
+}
