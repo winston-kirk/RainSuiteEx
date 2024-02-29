@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+dist/raininventoryex/plugins/*.dll
+dist/raincraftex/plugins/*.dll

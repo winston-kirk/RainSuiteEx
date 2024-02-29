@@ -1,0 +1,13 @@
+{
+	"id" : "raincraftex",
+	"name" : "RainCraftEx - Crafting System",
+	"version" : "0.0.1",
+	"target_game_version" : "v1.9.07b",
+	"hide_version" : false,
+	"authors" : "Winston Kirk",
+	"description" : "This mod adds a full functioning crafting system for all slugcats and serves as modding base for new items. It's part of the RainSuiteEx.",
+	"requirements" : [ "raininventoryex" ],
+	"requirements_names" : [ "RainInventoryEx - Inventory System" ],
+	"tags" : [ "Game Mechanics", "Crafting", "RainSuiteEx" ],
+	"checksum_override_version" : true
+}
